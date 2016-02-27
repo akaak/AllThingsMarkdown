@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Lanyon</title>
- <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
- <link href="http://lanyon.getpoole.com/"/>
- <updated>2016-02-25T19:55:15-05:00</updated>
- <id>http://lanyon.getpoole.com</id>
+ <title>All Things Markdown</title>
+ <link href="http://akaak.github.io/AllThingsMarkdown/atom.xml" rel="self"/>
+ <link href="http://akaak.github.io/AllThingsMarkdown/"/>
+ <updated>2016-02-26T19:49:20-05:00</updated>
+ <id>http://akaak.github.io/AllThingsMarkdown</id>
  <author>
-   <name>Mark Otto</name>
-   <email>markdotto@gmail.com</email>
+   <name>AK Adapa</name>
+   <email>akaak</email>
  </author>
 
  
  <entry>
    <title>About ATMD</title>
-   <link href="http://lanyon.getpoole.com/2016/02/25/about/"/>
+   <link href="http://akaak.github.io/AllThingsMarkdown/2016/02/25/about/"/>
    <updated>2016-02-25T00:00:00-05:00</updated>
-   <id>http://lanyon.getpoole.com/2016/02/25/about</id>
+   <id>http://akaak.github.io/AllThingsMarkdown/2016/02/25/about</id>
    <content type="html">&lt;p&gt;All Things Markdown is a website that provides information and resources about Markdown.&lt;/p&gt;
 
 </content>
