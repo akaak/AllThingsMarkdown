@@ -15,6 +15,9 @@ Dillinger is an online cloud-enabled, HTML5, buzzword-filled Markdown editor.
 - [StackEdit](https://stackedit.io)
 is a full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.
 
+- [MarkdownPad](http://www.markdownpad.com) Markdown editor for Windows.
+
+- [Markdown, Please!](http://markdownplease.com) is a service that instantly converts websites into Markdown.
 
 ## Articles
 

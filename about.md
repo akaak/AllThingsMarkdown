@@ -14,5 +14,7 @@ title: About
 
 ### When would you use it?
 
+### Why is Markdown called a Markdown?
+
 ### Examples
 
