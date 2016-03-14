@@ -14,6 +14,12 @@ title: About
 
 ### When would you use it?
 
+
+![Image 1](http://www.placehold.it/350x150)  
+
+![Image 1](http://www.placehold.it/350x150) 
+
+
 ### Why is Markdown called a Markdown?
 
 ### Examples
