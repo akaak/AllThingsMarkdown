@@ -19,6 +19,10 @@ is a full-featured, open-source Markdown editor based on PageDown, the Markdown 
 
 - [Markdown, Please!](http://markdownplease.com) is a service that instantly converts websites into Markdown.
 
+- CommonMark.org has a great [interactive tutorial](http://commonmark.org/help/tutorial/) on Markdown. 
+
+- Code segments could be rendered by specifying language name. For example, using Pygments you could use the **short names** after the three ticks to render the code in that language syntax. You may look at a [list of lexers](http://pygments.org/docs/lexers/) to find the short names.
+
 ## Articles
 
 - [Using Markdown within Reddit](https://www.reddit.com/comments/6ewgt/reddit_markdown_primer_or_how_do_you_do_all_that)
