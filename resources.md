@@ -38,9 +38,9 @@ Markdown Parsers help you parse the Markdown files and render the output in a br
 
 Parsers are available in various programming languages:
 
-- Ruby based parser: https://github.com/vmg/redcarpet
-- Python based parser: https://github.com/waylan/Python-Markdown
-- PHP based parser: https://github.com/erusev/parsedown
-- C# based parser: https://code.google.com/archive/p/markdownsharp/
-- Javascript based parser: https://github.com/chjj/marked
+- Ruby based parser: <https://github.com/vmg/redcarpet>
+- Python based parser: <https://github.com/waylan/Python-Markdown>
+- PHP based parser: <https://github.com/erusev/parsedown>
+- C# based parser: <https://code.google.com/archive/p/markdownsharp/>
+- Javascript based parser: <https://github.com/chjj/marked>
 
