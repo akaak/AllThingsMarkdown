@@ -42,4 +42,5 @@ Parsers are available in various programming languages:
 - Python based parser: https://github.com/waylan/Python-Markdown
 - PHP based parser: https://github.com/erusev/parsedown
 - C# based parser: https://code.google.com/archive/p/markdownsharp/
+- Javascript based parser: https://github.com/chjj/marked
 
