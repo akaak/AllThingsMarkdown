@@ -31,3 +31,15 @@ is a full-featured, open-source Markdown editor based on PageDown, the Markdown 
 
 - [Using Markdown in Quip](https://quip.com/blog/markdown) is a how beautifully [Quip](https://quip.com) uses Markdown in its application. 
 
+
+## Parsers
+
+Markdown Parsers help you parse the Markdown files and render the output in a browser friendly format (HTML).
+
+Parsers are available in various programming languages:
+
+- Ruby based parser: https://github.com/vmg/redcarpet
+- Python based parser: https://github.com/waylan/Python-Markdown
+- PHP based parser: https://github.com/erusev/parsedown
+- C# based parser: https://code.google.com/archive/p/markdownsharp/
+
