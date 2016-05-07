@@ -16,7 +16,7 @@ According to John Gruber of [Daring Fireball](http://daringfireball.net/projects
 
 HTML is great for presenting the information for the web. But, writing HTML in that nice format is not simple and easy without some tools and real understanding of the HTML (the markup language) with its rules and syntax.
 
-Markdown, unlike HTML, is meant for anyone to write with a simple editor without an understanding many rules and syntax of the HTML. HTML stands for Hypertext **Markup** Language. Since it is a Markup, the Markdown got its opposite name: Markdown.
+Markdown, unlike HTML, is meant for anyone to write with a simple editor without an understanding many rules and syntax of the HTML. HTML stands for Hypertext **Markup** Language. The Markdown got opposite name of Mark**up**: Mark**down**.
 
 ### Why would you use it?
 
