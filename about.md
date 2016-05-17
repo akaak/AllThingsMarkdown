@@ -36,7 +36,7 @@ Some Examples:
 
 Markdown, unlike HTML, is meant for anyone to write with a simple editor without an understanding of many rules and syntax of the HTML. HTML stands for Hypertext **Markup** Language. The Markdown got an opposite name of Mark**up**: Mark**down**.
 
-To write a bold text you would just use a simple keyboard characters `**`, before and after the text, to make that part of the text bold. If you were to do the same in HTML then you would have to use HTML tags such as <strong> before and </strong> after the text. So, you see, the markdown does not use special tags or commands or syntax to markup the text.
+To write a bold text you would just use a simple keyboard characters `**`, before and after the text, to make that part of the text bold. If you were to do the same in HTML then you would have to use HTML tags such as `<strong\>` before and `</strong>` after the text. So, you see, the markdown does not use special tags or commands or syntax to markup the text.
 
 The Markdown processor understands the text that is written in markdown format and converts it into HTML format. 
 
