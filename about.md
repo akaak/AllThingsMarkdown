@@ -8,7 +8,7 @@ title: About
 </p>
 
 
-### What is Markdown?
+## What is Markdown?
 
 According to John Gruber of [Daring Fireball](http://daringfireball.net/projects/markdown/) Markdown is:
 
@@ -16,7 +16,7 @@ According to John Gruber of [Daring Fireball](http://daringfireball.net/projects
 
 HTML is great for presenting the information for the web. But, writing HTML in that nice format is not simple and easy without some tools and real understanding of the HTML (the markup language) with its rules and syntax.
 
-### When would you use Markdown?
+## When would you use Markdown?
 
 One would use Markdown when you want to write documents or web pages but do not want to learn all the details of the HTML. 
 
@@ -29,10 +29,8 @@ Some Examples:
 - Write an article for a blog or website
 
 
-![Image 1](http://www.placehold.it/350x150) 
 
-
-### Why is Markdown called a Markdown?
+## Why is Markdown called a Markdown?
 
 Markdown, unlike HTML, is meant for anyone to write with a simple editor without an understanding of many rules and syntax of the HTML. HTML stands for Hypertext **Markup** Language. The Markdown got an opposite name of Mark**up**: Mark**down**.
 
@@ -55,5 +53,5 @@ Here is why Markdown is much better:
 - you can copy and paste markdown text as is in to an email
 
 
-### Examples
+## Examples
 
