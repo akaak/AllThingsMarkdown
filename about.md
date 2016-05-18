@@ -41,6 +41,19 @@ To write a bold text you would just use a simple keyboard characters `**`, befor
 The Markdown processor understands the text that is written in markdown format and converts it into HTML format. 
 
 ### Why would you use it?
+You would use markdown if HTML is not your thing. If you want to publish documents on the web/Internet then these documents have to be prepared in HTML format. Writing documents in HTML format is not for everyone. 
+
+Writing HTML is not a complex task and is not difficult to learn. However, if you are not a developer or computer programmer, there is no huge advantage in learning to write documents in HTML. 
+
+There are some editors or tools that let you write documents in HTML. These tools look just like a word processor such as Microsoft Word. That is not a bad alternative. But, Markdown is much better.
+
+Here is why Markdown is much better:
+
+- it lets you use a simple editor (like notepad) to write the documents
+- anyone can open these Markdown documents in a simple editor
+- you can easily compare markdown documents line by line or character by character
+- you can copy and paste markdown text as is in to an email
+
 
 ### Examples
 
