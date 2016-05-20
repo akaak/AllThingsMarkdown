@@ -25,8 +25,7 @@ is a full-featured, open-source Markdown editor based on PageDown, the Markdown 
 
 - **markdownr** is a very simple website to try markdown.
  [markdownr](http://markdownr.com/) uses the Ruby library [redcarpet](https://github.com/vmg/redcarpet).
-
-As mentioned on the site "Just type some markdown on the left and see it on the right. Simple as that."
+  As mentioned on the site *"Just type some markdown on the left and see it on the right. Simple as that."*
 
 ## Articles
 
