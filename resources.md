@@ -23,6 +23,11 @@ is a full-featured, open-source Markdown editor based on PageDown, the Markdown 
 
 - Code segments could be rendered by specifying language name. For example, using Pygments you could use the **short names** after the three ticks to render the code in that language syntax. You may look at a [list of lexers](http://pygments.org/docs/lexers/) to find the short names.
 
+- **markdownr** is a very simple website to try markdown.
+ [markdownr](http://markdownr.com/) uses the Ruby library [redcarpet](https://github.com/vmg/redcarpet).
+
+As mentioned on the site "Just type some markdown on the left and see it on the right. Simple as that."
+
 ## Articles
 
 - [Using Markdown within Reddit](https://www.reddit.com/comments/6ewgt/reddit_markdown_primer_or_how_do_you_do_all_that)
