@@ -35,6 +35,10 @@ is a full-featured, open-source Markdown editor based on PageDown, the Markdown 
 
 - [Using Markdown in Quip](https://quip.com/blog/markdown) is a how beautifully [Quip](https://quip.com) uses Markdown in its application. 
 
+- [Why markup (and Markdown) matter](http://stet.editorially.com/articles/why-markup-and-markdown-matter/) a great article from the writer\'s perspective.
+
+	> It (HTML) is a great tool for publishing, but a less-than-perfect one for authoring.
+
 
 ## Parsers
 
