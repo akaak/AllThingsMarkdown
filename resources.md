@@ -39,6 +39,9 @@ is a full-featured, open-source Markdown editor based on PageDown, the Markdown 
 
 	> It (HTML) is a great tool for publishing, but a less-than-perfect one for authoring.
 
+- [5 Sites and Apps for Quickly Learning Markdown](http://www.makeuseof.com/tag/5-sites-quickly-learning-markdown/)
+
+	> Writing for the web with Microsoft Word is like commuting to work in an 18-wheeler.
 
 ## Parsers
 
