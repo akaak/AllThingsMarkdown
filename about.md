@@ -51,6 +51,7 @@ Here is why Markdown is much better:
 - anyone can open these Markdown documents in a simple editor
 - you can easily compare markdown documents line by line or character by character
 - you can copy and paste markdown text as is in to an email
+- you can read it and undestand even in its raw form in an editor
 
 
 ## Examples
