@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>All Things Markdown</title>
- <link href="http://akaak.github.io/AllThingsMarkdown/atom.xml" rel="self"/>
- <link href="http://akaak.github.io/AllThingsMarkdown/"/>
- <updated>2016-06-03T16:41:16-04:00</updated>
- <id>http://akaak.github.io/AllThingsMarkdown</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2016-12-03T12:32:35-05:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>AK Adapa</name>
    <email>akaak</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>About ATMD</title>
-   <link href="http://akaak.github.io/AllThingsMarkdown/2016/02/25/about/"/>
+   <link href="http://localhost:4000/2016/02/25/about/"/>
    <updated>2016-02-25T00:00:00-05:00</updated>
-   <id>http://akaak.github.io/AllThingsMarkdown/2016/02/25/about</id>
+   <id>http://localhost:4000/2016/02/25/about</id>
    <content type="html">&lt;p&gt;All Things Markdown is a website that provides information and resources about Markdown.&lt;/p&gt;
 
 </content>
