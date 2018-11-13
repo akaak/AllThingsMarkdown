@@ -10,7 +10,7 @@ tagline:             ''
 description:         'All Things Markdown is a website to learn about Markdown and ways you can work with and/or use Markdown in various scenarios.'
 
 url:                 http://akaak.github.io/AllThingsMarkdown/
-baseurl:             http://akaak.github.io/AllThingsMarkdown
+baseurl:             ''
 paginate:            5
 
 github:
