@@ -14,4 +14,10 @@ Run
 
 `$ bundle exec jekyll serve`
 
+or 
+
+`$ bundle exec jekyll serve --baseurl ''`
+
+Fixed a bug with the index.html. See here: <https://github.com/poole/lanyon/issues/209>
+
 to see the site on localhost.
