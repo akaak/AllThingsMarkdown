@@ -3,7 +3,9 @@ layout: post
 title: Userguides
 ---
 
-User & Help Guides
+### Preparing User & Help Guides with Markdown
+
+If you are preparing user and help guides in Microsoft Word or other document formats then you should think about preparing them in Markdown and serve them as web page or PDF.
 
 User and Help Guides that are served via a website in HTML format are great for two reasons:
 - ease of use for the users to review in a browser; offers an easy way to navigate the guides
