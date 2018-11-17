@@ -17,7 +17,7 @@ github:
   repo: https://github.com/akaak/AllThingsMarkdown
 
 # added for Jekyll v3.0
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate_path: "page:num"
 
 
