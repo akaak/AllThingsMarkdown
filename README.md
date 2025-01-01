@@ -21,3 +21,11 @@ or
 Fixed a bug with the index.html. See here: <https://github.com/poole/lanyon/issues/209>
 
 to see the site on localhost.
+
+--
+
+**TODO**
+
+- revive the site
+- publish on github pages or vercel/netlify
+- recent md uses
